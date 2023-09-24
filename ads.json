@@ -1,1 +1,17 @@
-{}
+{
+    "testing": {
+        "projectName": "testing",
+        "description": "Lorem ipsum dolor sit amet",
+        "type": "community",
+        "author": "rizarsyi",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/rizarsyi/new-sandbox",
+        "githubUri": "https://github.com/rizarsyi/new-sandbox",
+        "license": "MIT",
+        "lastUpdated": "1695547558412",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": []
+    }
+}
